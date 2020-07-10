@@ -3,7 +3,7 @@
 
 <h3>Getting started</h3>
 <p>Make sure you have docker installed and running on your computer then run the following command:</p>
-<code>docker run -v {absolute_path_to_folder}:/content travis3pi/doc-to-text:0.0.1</code> 
+<code>docker run -v "{absolute_path_to_folder}:/content" travis3pi/doc-to-text:0.0.1</code> 
 <br>
 <br>
 The following file types can be converted into text:
